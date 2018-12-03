@@ -32,11 +32,6 @@ public class VIPNumbers {
                                 comma = ",";
                                 stop = true;
                             }
-                            
-                            if (newNum == Array[o].substring(5)) {
-                                System.out.print(" gleich" + comma);
-                                comma = ",";
-                            }   
                         }
                     }
                 }
